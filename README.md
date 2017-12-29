@@ -1,0 +1,2 @@
+# Litecoin-Platinum
+Litecoin Platinum
